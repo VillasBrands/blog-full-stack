@@ -1,6 +1,6 @@
-# Blog Full-Stack com Ruby on Rails
+# Forum Full-Stack com Ruby on Rails
 
-Este é um projeto de teste para uma vaga de desenvolvedor júnior em Ruby on Rails. O objetivo é criar um blog simples com autenticação de usuários, posts e comentários.
+Este é um projeto de teste para uma vaga de desenvolvedor Ruby on Rails. O objetivo é criar um forum simples com autenticação de usuários, posts e comentários.
 
 ## Requisitos Técnicos
 
@@ -17,7 +17,7 @@ Este é um projeto de teste para uma vaga de desenvolvedor júnior em Ruby on Ra
    - Login
    - Logout
 
-2. **Posts do Blog:**
+2. **Posts do Forum:**
    - Criação de posts (usuários autenticados)
    - Edição de posts (usuários autenticados)
    - Exclusão de posts (usuários autenticados)
