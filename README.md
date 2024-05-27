@@ -22,6 +22,7 @@ Este é um projeto de teste para uma vaga de desenvolvedor júnior em Ruby on Ra
    - Edição de posts (usuários autenticados)
    - Exclusão de posts (usuários autenticados)
    - Cada post deve ter um título e um conteúdo
+   - Cada post deve estar associado a um usuário
 
 3. **Comentários nos Posts:**
    - Adição de comentários nos posts (usuários autenticados)
@@ -38,6 +39,7 @@ Você pode criar o front-end da maneira que preferir, contanto que atenda aos se
 2. **Navbar:**
    - Exibir o nome do usuário logado.
    - Opção para o usuário fazer logout.
+   - Link para "Meus Posts" que exibe apenas os posts criados pelo usuário logado.
 
 3. **Página Inicial:**
    - Listar todos os posts com o título e uma descrição reduzida.
@@ -46,6 +48,10 @@ Você pode criar o front-end da maneira que preferir, contanto que atenda aos se
 4. **Página de Visualização do Post (Show):**
    - Exibir o post completo.
    - Formulário para adicionar comentários abaixo do post.
+
+5. **Página "Meus Posts":**
+   - Exibir todos os posts criados pelo usuário logado.
+   - Permitir que o usuário edite ou delete seus próprios posts.
 
 ## Documentação
 
