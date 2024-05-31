@@ -1,6 +1,10 @@
 # Forum Full-Stack com Ruby on Rails
 
-Este é um projeto de teste para uma vaga de desenvolvedor Ruby on Rails. O objetivo é criar um forum simples com autenticação de usuários, posts e comentários.
+Este é um projeto de teste para uma vaga de desenvolvedor Ruby on Rails. O objetivo é criar um fórum simples com autenticação de usuários, posts e comentários. O tema do fórum será focado em discussões sobre construção e engenharia civil, atendendo às necessidades de uma empresa de construção.
+
+## Contexto do Projeto
+
+Você deve inventar um nome para a empresa de construção fictícia que deseja criar um espaço online onde engenheiros, arquitetos, operários e entusiastas da construção possam compartilhar conhecimentos, discutir projetos e resolver dúvidas. Este fórum servirá como uma plataforma para conectar profissionais da área e facilitar a troca de informações técnicas e experiências de campo.
 
 ## Requisitos Técnicos
 
@@ -17,7 +21,7 @@ Este é um projeto de teste para uma vaga de desenvolvedor Ruby on Rails. O obje
    - Login
    - Logout
 
-2. **Posts do Forum:**
+2. **Posts do Fórum:**
    - Criação de posts (usuários autenticados)
    - Edição de posts (usuários autenticados)
    - Exclusão de posts (usuários autenticados)
