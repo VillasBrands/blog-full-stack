@@ -34,7 +34,7 @@ Você deve inventar um nome para a empresa de construção fictícia que deseja 
 
 ## Front-End
 
-Você pode criar o front-end da maneira que preferir, contanto que atenda aos seguintes requisitos:
+Você pode criar o front-end responsivo da maneira que preferir, contanto que atenda aos seguintes requisitos:
 
 1. **Tela de Login e Cadastro:**
    - Tela para usuários se registrarem.
